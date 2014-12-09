@@ -1,0 +1,79 @@
+.enter{
+	background-image: url(../image/sinapsis.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color:#01011d;
+	font-size: 25pt; 
+	font-weight: bold;
+}
+
+a{
+	color:white;
+	font-family: arial;
+	text-decoration: none;
+}
+
+li{
+	float: right;
+	list-style: none;
+	display: inline;
+	padding-right: 50px;
+}
+.inicio{
+	padding-top: 700px;
+	width: 200px;
+    margin:0 auto;
+	margin-top: 0px;
+	position: relative;
+}
+
+.home{
+	background-image: url(../image/fondosinap.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color:#01011d; 
+}
+
+.menu{
+	background-image: url(../image/menu.jpg);
+	width: 947px;
+	height: 70px;
+    margin:0 auto;
+	margin-top: 0px;
+	position: relative;
+	color:white;
+	font-family: arial;
+	padding-top: 10px;
+	box-sizing: border-box;
+}
+
+.banner{
+	background-image: url(../image/banner.jpg);
+	margin:0 auto;
+	margin-top: 0px;
+	position: relative;
+	width: 931px;
+	height: 240px;
+}
+
+.menu2{
+	background-image: url(../image/menu2.jpg);
+	margin:0 auto;
+	margin-top: 0px;
+	position: relative;
+	width: 943px;
+	height: 42px;
+	padding-top: 1px;
+	box-sizing: border-box;
+}
+
+.lugar{
+    background-image: url(../image/lugar.jpg);
+	margin:0 auto;
+	margin-top: 0px;
+	position: relative;
+	width: 945px;
+	height: 428px;
+}
